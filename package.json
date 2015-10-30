@@ -1,0 +1,22 @@
+{
+  "name": "com.improvisio.bluetoothserial",
+  "version": "1.0.0",
+  "description": "This plugin enables serial communication over Bluetooth. It was written for communicating between Android or iOS and device with Classic Bluetooth.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/improvisio-software/BluetoothSerial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/improvisio-software/BluetoothSerial/issues"
+  },
+  "homepage": "https://github.com/improvisio-software/BluetoothSerial#readme"
+}
